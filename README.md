@@ -3,19 +3,12 @@ Hi, my name is Ahmed Khiari and I am a Software Engineer Student.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to Open Source projects
 - 🥅 2021 Goals: Getting an Internship
+ <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/><br/>
-
-
-[linkedin]: https://www.linkedin.com/in/ahmedkr/
-
-
-
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-Ahmedkhiari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedkr/)](https://www.linkedin.com/in/ahmedkr/)
 
 
 
