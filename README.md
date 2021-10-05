@@ -9,7 +9,7 @@ Hi, my name is Ahmed Khiari and I am a Software Engineer Student.
 <br/><br/>
 [![Ahmed khiari's Github Stats](https://github-readme-stats.vercel.app/api?username=Ahmedkr5&show_icons=true&theme=dracula)](https://github.com/Ahmedkr5/github-readme-stats)
 <br/>
-![dev-working_rounded](https://user-images.githubusercontent.com/60600220/135900383-183c521d-6a36-41f0-acb1-d7f343081cd1.gif)
+![frustrated-computer-baboon](https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif)
 
 
 [linkedin]: https://www.linkedin.com/in/ahmedkr/
