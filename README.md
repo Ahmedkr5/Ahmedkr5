@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Hi, my name is Ahmed Khiari and I am a Software Engineer Student.
+Hi, my name is Ahmed Khiari and I am a Software Engineering Student.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to Open Source projects
 - 🥅 2021 Goals: Getting an Internship
