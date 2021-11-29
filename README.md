@@ -12,7 +12,7 @@ Hi, my name is Ahmed Khiari and I am a Software Engineering Student.
 [![Gmail](https://img.shields.io/badge/-Ahmedkr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed.khiari2@esprit.tn)
 
 
-
+[![Ahmed khiari's Github States](https://github-readme-stats.vercel.app/api?username=Ahmedkr5&show_icons=true&theme=dracula)](https://github.com/Ahmedkr5/github-readme-stats)
 
 
 
