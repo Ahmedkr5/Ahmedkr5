@@ -1,8 +1,8 @@
 ### Hi there 👋 
 Hi, my name is Ahmed Khiari and I am a Software Engineering Student.
-- 🌱 I’m currently learning everything 🤣.But i am mainly interested in MERN Stack 💪 
+- 🌱 I’m currently learning everything 🤣.But i am mainly interested in web technologies. 💪 
 - 👯 I’m looking to contribute to Open Source projects.
-- 🥅 2021 Goals: Getting an Internship.
+- 🥅 2022 Goals: Getting an Internship.
  <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
