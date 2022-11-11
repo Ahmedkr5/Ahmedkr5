@@ -4,7 +4,8 @@ Hi, my name is Ahmed Khiari and I am a Software Engineering Student.
 - 👯 I’m looking to contribute to Open Source projects.
 - 🥅 2022 Goals: Getting my software engineering degree.
  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkr5"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkr5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  </abc>
 
 ### Connect with me:
