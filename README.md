@@ -4,6 +4,7 @@ Hi, my name is Ahmed Khiari and I am a Software Engineering Student.
 - 👯 I’m looking to contribute to Open Source projects.
 - 🥅 2022 Goals: Getting my software engineering degree.
  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
  </abc>
 
