@@ -3,7 +3,7 @@ Hi, my name is Ahmed Khiari and I am a Software Engineer.
 - 🌱 I’m currently learning everything 🤣.But i am mainly interested in web technologies. 💪 
 - 👯 I’m looking to contribute to Open Source projects.
  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ 
 
  </abc>
 
@@ -11,8 +11,6 @@ Hi, my name is Ahmed Khiari and I am a Software Engineer.
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmedkr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedkr/)](https://www.linkedin.com/in/ahmedkr/)
 [![Gmail](https://img.shields.io/badge/-Ahmedkr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed.khiari2@esprit.tn)
 
-
-[![Ahmed khiari's Github States](https://github-readme-stats.vercel.app/api?username=Ahmedkr5&show_icons=true&theme=dracula)](https://github.com/Ahmedkr5/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkr5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
