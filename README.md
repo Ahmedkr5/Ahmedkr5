@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Ahmed Khiari, a passionate Software Engineer w
 -👯 I'm actively seeking opportunities to contribute to meaningful Open Source projects. Collaborating with others and making a positive impact on the developer community is something I strive for.
 
 -⚡ Fun fact: When I'm not coding, you can often find me exploring the outdoors, playing sports, or diving into a good book.
+
 Feel free to explore my repositories and projects. If you have any questions, suggestions, or potential collaboration ideas, I'd be more than happy to connect with you. Let's make the world of software development a better place together! 
 <br/>
 
