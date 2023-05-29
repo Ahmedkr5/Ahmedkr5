@@ -7,8 +7,6 @@ I'm Ahmed Khiari, a Software Engineer with a focus on web technologies.
 
 -👯 Seeking opportunities to contribute to Open Source projects.
 
--⚡ Fun fact: I enjoy outdoor activities and reading in my spare time.
-
 Feel free to explore my repositories. Let's connect and make an impact in the world of software development! 😄🚀
 
 <br/>
